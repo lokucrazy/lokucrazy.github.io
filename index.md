@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Ryan Lokugamage github.io page!
+
+I'll probably start using this as a main blog site for any upcoming projects I might do.  We'll see what happens I guess.
 
 You can use the [editor on GitHub](https://github.com/lokucrazy/lokucrazy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
